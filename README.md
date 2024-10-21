@@ -213,12 +213,14 @@ int main()
 
 ## Outputs :
 ### 1.
-
+<img width="586" alt="Screenshot 2024-10-21 at 1 57 03 PM" src="https://github.com/user-attachments/assets/635b3691-a411-43b6-9b6e-ca0b33afa9ed">
 
 ### 2.
-
+<img width="512" alt="Screenshot 2024-10-21 at 1 57 46 PM" src="https://github.com/user-attachments/assets/42b8cf23-70c4-4b1b-835a-946a6e9e9f7c">
 
 ### 3.
+<img width="666" alt="Screenshot 2024-10-21 at 1 59 02 PM" src="https://github.com/user-attachments/assets/09e7006d-bab4-4af8-9a16-52efb59d970e">
+
 
 
 ## Conclusion :
